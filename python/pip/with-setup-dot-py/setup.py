@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name = 'python-with-setup-file-example',
     install_requires = [
-        'django==1.7.1',
+        'django==1.11.29',
         'PyJWT==0.4.2',
         'rsa==3.0',
         'requests==2.2.1',
