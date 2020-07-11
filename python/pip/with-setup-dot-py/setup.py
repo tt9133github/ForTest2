@@ -6,7 +6,7 @@ setup(
         'django==1.7.1',
         'PyJWT==0.4.2',
         'rsa==3.0',
-        'requests==2.2.1',
+        'requests==2.20.0',
         'feedparser==5.1.1',
         'Flask==0.11.1'
     ]
